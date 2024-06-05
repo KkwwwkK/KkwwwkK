@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Ken Wong from Hong Kong. I have finished a full stack training course focusing on Java and React.js recently as well as advanced deployment tools. You could find out my finished project from the link(https://shop.ken-smarthome.online/) and the source code of it below.
+
+
+
 <!--
 **KkwwwkK/KkwwwkK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
