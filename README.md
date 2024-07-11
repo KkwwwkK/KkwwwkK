@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-I'm Ken Wong from Hong Kong. I have finished a full stack training course focusing on Java and React.js recently as well as advanced deployment tools. You could find out my finished project from the link(https://shop.ken-smarthome.online/) and the source code of it below.
+I'm Ken Wong from Hong Kong. I have finished a full stack training course focusing on Java and React.js recently as well as another online course CS50 from Harvard University. You could find out my finished projects and the source code of them below!
 
+Venturenix Project: an e-shop web app: https://shop.ken-smarthome.online/
 
+A live chat app: https://ec2-54-179-255-198.ap-southeast-1.compute.amazonaws.com/login
+
+CS50 project: https://www.youtube.com/watch?v=4GldYJHzTPo
 
 <!--
 **KkwwwkK/KkwwwkK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
