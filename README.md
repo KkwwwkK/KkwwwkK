@@ -1,12 +1,26 @@
 ## Hi there 👋
 
-I'm Ken Wong from Hong Kong. I have finished a full stack training course focusing on Java and React.js recently as well as another online course CS50 from Harvard University. You could find out my finished projects and the source code of them below!
+Full-time dedicated over a year to mastering IT and AI technologies as my second profession, achieving proven success in full-stack development, AI systems, data-driven solutions and Edtech project. 
 
-Venturenix Project: an e-shop web app: https://shop.ken-smarthome.online/
+Projects ____________________
+1, Object Tracking - AI (system) – individual project 
+     tech: Yolo, Deep SORT, OpenCV, Python, Pytorch, Numpy
+     showcase URL: http://project-showcase-aihook.s3-website-ap-southeast-1.amazonaws.com/
 
-A live chat app: https://ec2-54-179-255-198.ap-southeast-1.compute.amazonaws.com/login
+2, Big Data to Dashboard - ML (system) – individual project 
+     tech: Node.js, MongoDB, AWS Lambda, S3, Athena, QuickSight
+     showcase URL: http://project-dashboard-url.s3-website-ap-southeast-1.amazonaws.com/
 
-CS50 project: https://www.youtube.com/watch?v=4GldYJHzTPo
+3, Venturenix Lab Project – e-shop (web app) – individual project 
+     tech: Java, Spring Boot, React, MySQL, Docker, AWS, MVC    
+     application URL: https://shop.ken-smarthome.online/
+    
+4, CS50 Project (web app) – first simple app built without guidance
+   application URL: https://www.youtube.com/watch?v=4GldYJHzTPo
+
+5, Stapps (Android & iOS published app) – group project - support
+     application URL:  https://www.stapps.hk/
+
 
 <!--
 **KkwwwkK/KkwwwkK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
