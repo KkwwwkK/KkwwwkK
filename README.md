@@ -16,7 +16,8 @@ Full-time dedicated over a year to mastering IT and AI technologies as my second
 3, Venturenix Lab Project – e-shop (web app) – individual project 
      tech: Java, Spring Boot, React, MySQL, Docker, AWS, MVC    
      
-     https://shop.ken-smarthome.online/
+     Please see the original code from repositories : "Venturenix_eshop_Project_Backend" and "Project_Frontend"
+
     
 4, CS50 Project (web app) – first simple app built without guidance
      
