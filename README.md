@@ -105,21 +105,6 @@ Co-founder of a published mobile application project.
 
 ---
 
-## 🛠️ Core Technologies
-
-**AI Agent / Workflow Automation:**  
-AI Agent Workflow Design, Lead Generation Automation, Prompt Engineering, Structured Output Design, Task Automation, Search Workflow Design, Data Extraction Workflow, Human-in-the-loop Review
-
-**AI / Computer Vision:**  
-YOLO, Deep SORT, Grounding DINO, SAM2, Vision-Language Models, OpenCV, PyTorch, NumPy
-
-**Cloud / Data:**  
-AWS Cloud, AWS Lambda, Amazon S3, Athena, QuickSight, MongoDB
-
-**Full Stack:**  
-Python, Node.js, Java, Spring Boot, React, MySQL, Docker
----
-
 ## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/kw-619](https://www.linkedin.com/in/kw-619)
